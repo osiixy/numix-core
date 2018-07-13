@@ -17012,7 +17012,8 @@
                 "visual-studio-code",
                 "vsc",
                 "vscode",
-                "vso"
+                "vso",
+                "code"
             ]
         }
     },
